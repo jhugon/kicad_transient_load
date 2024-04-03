@@ -1713,7 +1713,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal"
 			(at 196.596 95.504 90)
 			(effects
 				(font
@@ -1732,6 +1732,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 195.58 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "KOA Speer"
 			(at 195.58 95.25 0)
 			(effects
 				(font
@@ -1783,7 +1792,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal"
 			(at 173.736 95.504 90)
 			(effects
 				(font
@@ -1802,6 +1811,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 172.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "KOA Speer"
 			(at 172.72 95.25 0)
 			(effects
 				(font
@@ -1919,7 +1937,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 			(at 184.15 76.2 0)
 			(effects
 				(font
@@ -1938,6 +1956,24 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 184.15 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" ""
+			(at 184.15 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" ""
 			(at 184.15 76.2 0)
 			(effects
 				(font
@@ -2001,7 +2037,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
 			(at 73.66 107.95 0)
 			(effects
 				(font
@@ -2028,7 +2064,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "TE Connectivity"
 			(at 73.66 107.95 0)
 			(effects
 				(font
@@ -2037,7 +2073,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" ""
+		(property "MFR Part No" "282834-2"
 			(at 73.66 107.95 0)
 			(effects
 				(font
@@ -2155,7 +2191,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal"
 			(at 185.166 95.504 90)
 			(effects
 				(font
@@ -2174,6 +2210,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 184.15 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "KOA Speer"
 			(at 184.15 95.25 0)
 			(effects
 				(font
@@ -2225,7 +2270,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 172.974 126.746 90)
 			(effects
 				(font
@@ -2244,6 +2289,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 173.99 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "KOA Speer"
+			(at 173.99 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR Part No" "MF1/4LCT52R103J "
 			(at 173.99 127 0)
 			(effects
 				(font
