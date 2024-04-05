@@ -1625,7 +1625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AAAA_Project_Library:BNC_TE-Connectivity_1-1337445-0"
 			(at 67.31 53.34 0)
 			(effects
 				(font
@@ -1740,7 +1740,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "KOA Speer"
+		(property "MFR" ""
 			(at 195.58 95.25 0)
 			(effects
 				(font
@@ -1819,7 +1819,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "KOA Speer"
+		(property "MFR" ""
 			(at 172.72 95.25 0)
 			(effects
 				(font
@@ -1964,7 +1964,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" ""
+		(property "MFR" "TE C onnectivity"
 			(at 184.15 76.2 0)
 			(effects
 				(font
@@ -1973,7 +1973,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No" ""
+		(property "MFR Part No" "9-146261-0 "
 			(at 184.15 76.2 0)
 			(effects
 				(font
@@ -2218,7 +2218,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "KOA Speer"
+		(property "MFR" ""
 			(at 184.15 95.25 0)
 			(effects
 				(font
