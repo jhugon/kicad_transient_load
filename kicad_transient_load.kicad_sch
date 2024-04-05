@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "Transient Load")
-		(date "2024-04-02")
+		(date "2024-04-05")
 		(company "HugonLabs")
 		(comment 1 "For transient testing power supplies")
 	)
